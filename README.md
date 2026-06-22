@@ -1,0 +1,1 @@
+This is a project that invloves building a network using packet tracer .It will include different commands from the simple basic commands to the most complicated commands .Activity 1 is the basic switch commands and going forward they will grow into complex commands 
