@@ -1,1 +1,2 @@
-This is a project that invloves building a network using packet tracer .It will include different commands from the simple basic commands to the most complicated commands .Activity 1 is the basic switch commands and going forward they will grow into complex commands 
+This is a project that invloves building a network using packet tracer .It will include different commands from the simple basic commands to the most complicated commands .Activity 1 is the basic switch commands like encrypting our switch device and creating a management interface.
+Activity 2 includes is a continuation of activity 1 but there's an intergration of router configurations which includes activating interfaces .
